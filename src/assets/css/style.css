@@ -1,0 +1,129 @@
+.cement-cs-table{
+    width: 100%;
+
+}
+
+
+
+.cement-cs-table th,td{
+    border: 1px solid black;
+   border-collapse: collapse; position: relative;
+    bottom: 5px;
+    /* overflow: hidden; */
+    text-align: center;
+
+}
+.cement-cs-table .belloTableRow{
+      height: 30px;
+      line-height: 30px; 
+
+}
+
+.cement-finalsetting-table{
+
+    width: 68%;
+    margin: auto;
+    /* border: 1px solid black;
+    border-collapse: collapse; */
+   
+
+ }
+ .cement-finalsetting-table th ,td{
+
+     border: 1px solid black;
+    border-collapse: collapse; 
+    height: 40px;
+    line-height: 40px;
+   
+ }
+
+ .cement-finalsetting-table .table3SecondTable{
+     width:10%
+ }
+ .cement-DrySieving-table{
+
+    width: 68%;
+    margin: auto;
+    /* border: 1px solid black;
+    border-collapse: collapse; */
+   
+
+ }
+ .cement-DrySieving-table th ,td{
+
+     border: 1px solid black;
+    border-collapse: collapse; 
+    height: 40px;
+    line-height: 40px;
+   
+ }
+
+ .cement-consistency-table{
+
+    width: 68%;
+    margin: auto;
+ }
+
+ .cement-consistency-table th ,td{
+
+     border: 1px solid black;
+    border-collapse: collapse; 
+    height: 40px;
+    line-height: 40px;
+   
+ }
+
+ .cement-soundness-table{
+    width: 68%;
+    margin: auto;
+ }
+
+ .cement-soundness-table th ,td{
+
+     border: 1px solid black;
+    border-collapse: collapse; 
+    height: 40px;
+line-height: 40px;
+   
+ }
+
+ .cement-specificgravity-table{
+    width: 68%;
+    margin: auto;
+ }
+
+ .cement-specificgravity-table th ,td{
+
+     border: 1px solid black;
+    border-collapse: collapse; 
+    height: 40px;
+line-height: 40px;
+   
+ }
+
+ .cement-lossofignition-table{
+    width: 68%;
+    margin: auto;
+ }
+
+ .cement-lossofignition-table th ,td{
+
+     border: 1px solid black;
+    border-collapse: collapse; 
+    height: 40px;
+    line-height: 40px;
+   
+ }
+ tr{
+     text-align: center;
+     /* height: 30px;
+       line-height: 30px;  */
+
+ }
+/* .labID
+{
+    text-align: center;
+    width: 9%;
+    position: relative;
+    bottom: 25px;
+} */
